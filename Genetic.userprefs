@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Genetic\Genetic.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Genetic\Algorithm.cs">
+    <Files>
+      <File FileName="Genetic\Program.cs" Line="24" Column="56" />
+      <File FileName="Genetic\Algorithm.cs" Line="34" Column="25" />
+      <File FileName="Genetic\Population.cs" Line="22" Column="3" />
+      <File FileName="Genetic\FitnessCalc.cs" Line="1" Column="1" />
+      <File FileName="Genetic\Individual.cs" Line="23" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
